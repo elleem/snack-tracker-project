@@ -22,9 +22,9 @@ Version 1.0
   
   - [x] create a name CharField with max length 64 characters
   
-  - [] create a purchaser ForeignKey with CASCADE delete option
+  - [x] create a purchaser ForeignKey with CASCADE delete option
   
-  - [] create a description TextField
+  - [x] create a description TextField
   
 - [x] Add model to admin
   
