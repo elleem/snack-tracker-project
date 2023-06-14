@@ -1,9 +1,9 @@
 from django.views.generic import ListView
-from .models import Snack
+from .models import Book
 
-class SnackListView(ListView):
+class BookListView(ListView):
     template_name = "book_list.html"
-    model = Snack
+    model = Book
     context_object_name = "books"
 
 
