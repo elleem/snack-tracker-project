@@ -30,17 +30,17 @@ Version 1.0
   
 - [x] Modify Snack model to have user-friendly display in admin
 
-- [] create migrations and migrate data
+- [x] Create migrations and migrate data
 
-- [] create a super user
+- [x] Create a super user
 
-- [] run dev server
+- [x] Run dev server
 
-- [] add snacks via admin panel
+- [x] add snacks via admin panel
 
-- [] create another user and add more snack via admin panel
+- [x] create another user and add more snack via admin panel
 
-- [] confirm snacks behave as expected with model name, purchaser, and description
+- [x] confirm snacks behave as expected with model name, purchaser, and description
 
 - [] create SnackListView
 
