@@ -1,4 +1,4 @@
-from django.views.generic import ListView, DetailView
+from django.views.generic import ListView, DetailView, TemplateView
 from .models import Book
 
 class BookListView(ListView):
@@ -11,4 +11,5 @@ class BookDetailView(DetailView):
     template_name = "book_detail.html"
     model = Book
 
-
+class AboutView(TemplateView):
+    template_name = 'about.html'

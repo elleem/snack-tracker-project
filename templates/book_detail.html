@@ -3,9 +3,10 @@
 {%  block content %}
 
 <div>
-<h2>{{ book.name }}</h2>
-<p>{{ book.purchaser }}</p>
-<p>{{ book.description }}</p>
+<h2>Title: {{ book.name }}</h2>
+<p>Purchaser: {{ book.purchaser }}</p>
+<p>Description: {{ book.description }}</p>
+<img src="{{ book.image_url }}" alt=""style="max-width: 300px; height: auto;"/>
 </div>
 
 

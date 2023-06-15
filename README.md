@@ -42,15 +42,15 @@ Version 1.0
 
 - [x] confirm snacks behave as expected with model name, purchaser, and description
 
-- [] create SnackListView
+- [x] create SnackListView
 
-- [] update url patterns
+- [x] update url patterns
 
-- [] update snack app urls
+- [x] update snack app urls
 
-- [] add detail view
+- [x] add detail view
 
-- [] update app urlpatterns to handle detail view
+- [x] update app urlpatterns to handle detail view
 
 
 
