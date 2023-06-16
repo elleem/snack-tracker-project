@@ -56,9 +56,18 @@ Version 1.0
 
 ### Setup
 
+intiate a virtual environment
+
+`python3.11 -m venv .venv`
+
+`source .venv/bin/activate`
+
 ### how to initialize/run this app
 
+`python manage.py runserver`
+
+run via the local server
 
 ### tests
 
-### 
+run tests via `python manage.py test`
