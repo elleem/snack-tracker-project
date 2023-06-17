@@ -6,7 +6,7 @@ Version 1.0
 
 ### Links and Resources
 
-
+This page references [Click if You Dare: 100 Favorite Horror Stories](https://www.npr.org/2018/08/16/632779706/click-if-you-dare-100-favorite-horror-stories)
 
 ### Overview
 
@@ -56,7 +56,7 @@ Version 1.0
 
 ### Setup
 
-intiate a virtual environment
+initiate a virtual environment
 
 `python3.11 -m venv .venv`
 
